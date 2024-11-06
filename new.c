@@ -14,3 +14,9 @@ if("woshinidie")
     de = 7
     nb = 9 //I don't like maga
 }
+
+
+for(a=1){
+    xixi = 9
+    koko = 4
+}
