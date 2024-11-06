@@ -1,3 +1,9 @@
 print("hello world")
 
-int a=5
+int a=15
+
+int b=4
+
+float c=3
+
+print("Trump win")
